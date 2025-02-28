@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestCaseEntity>
-    <type>AUTOMATED</type>
-    <description>update description</description>
+    <type>MANUAL</type>
     <tag></tag>
     <comment></comment>
-    <name>DeSelectByindex 3</name>
+    <name>DeSelectByindex 4</name>
+    <testCaseGuid>c231d4ca-3da6-460b-abde-2854157c2662</testCaseGuid>
 </TestCaseEntity>
