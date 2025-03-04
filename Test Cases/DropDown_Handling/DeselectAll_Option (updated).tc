@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>DeselectAll_Option (updated)</name>
+</TestCaseEntity>
