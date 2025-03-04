@@ -22,7 +22,7 @@
         <guid>4768ffa9-b804-4830-8da1-99ef1092e8d5</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/DropDown_Handling/DeselectAll_Option (updated 2)</testCaseId>
+        <testCaseId>Test Cases/DropDown_Handling/DeselectAll_Option</testCaseId>
     </testCaseLink>
     <testCaseLink>
         <guid>b2eeee49-2210-4f6f-93ac-896de158f4b0</guid>
