@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<TestCaseEntity>
-    <type>MANUAL</type>
-    <tag></tag>
-    <comment></comment>
-    <name>DeselectAll_Option</name>
-</TestCaseEntity>
