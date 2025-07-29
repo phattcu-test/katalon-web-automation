@@ -5,4 +5,14 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>de674805-2fa9-4f45-90d9-160c8ca2bab4</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"nhi.ly+kataloncloud@katalon.com","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":[]},{"key":"testType","value":[]}]}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
 </TestCaseEntity>
