@@ -10,7 +10,7 @@
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{"author":null,"status":"PUBLISHED","assignee":"nhi.ly@katalon.com","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":[]},{"key":"testType","value":[]}]}}</value>
+            <value>{"author":null,"status":"READY_TO_REVIEW","assignee":"nhi.ly@katalon.com","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":[]},{"key":"testType","value":[]}]}}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
